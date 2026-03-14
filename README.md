@@ -101,15 +101,38 @@
 
 ---
 
-## 🚀 快速开始
+## 🚀 安装指南
 
-### 你需要准备什么
+### 🤖 方式一：让 AI 帮你安装（推荐）
+
+把这段话发给你的 AI 助手：
+
+```
+请帮我安装 word-report-generator 这个 Skill：
+
+1. 从 https://github.com/anjiu930/word-report-generator 克隆或下载项目
+2. 把 word-report 目录复制到 ~/.claude/skills/word-report
+3. 安装 Python 依赖：pip install python-docx
+4. 修改 template.py 和 SKILL.md 中的路径为我的系统路径
+
+请自动检测我的系统并完成安装配置。
+```
+
+AI 会自动帮你完成所有安装步骤，你只需要确认即可。
+
+---
+
+### 🛠️ 方式二：手动安装
+
+如果你想自己操作，按以下步骤进行：
+
+#### 你需要准备什么
 
 - 🤖 [Claude Code](https://docs.anthropic.com/en/docs/claude-code)（Anthropic 的 AI 命令行工具，推荐）
 - 🐍 Python 3.7+
 - 📦 安装 python-docx：`pip install python-docx`
 
-### 三步安装
+#### 三步安装
 
 **1️⃣ 下载本项目**
 
