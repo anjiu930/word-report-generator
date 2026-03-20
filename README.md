@@ -113,7 +113,8 @@
 1. 从 https://github.com/anjiu930/word-report-generator 克隆或下载项目
 2. 把 word-report 目录复制到 ~/.claude/skills/word-report
 3. 安装 Python 依赖：pip install python-docx
-4. 修改 template.py 和 SKILL.md 中的路径为我的系统路径
+4. 安装 chromedevtool自动操作浏览器mcp
+5. 修改 template.py 和 SKILL.md 中的路径为我的系统路径
 
 请自动检测我的系统并完成安装配置。
 ```
