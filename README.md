@@ -10,7 +10,7 @@
 
 **告别手动调字体、改行距、对缩进的噩梦。**
 
-[![Release](https://img.shields.io/github/v/release/anjiu930/word-report-generator?style=flat-square)](https://github.com/anjiu930/word-report-generator/releases)
+[![Release](https://img.shields.io/github/v/release/XA-anjiu/word-report-generator?style=flat-square)](https://github.com/XA-anjiu/word-report-generator/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.7+-green?style=flat-square)](https://www.python.org/)
 
@@ -110,7 +110,7 @@
 ```
 请帮我安装 word-report-generator 这个 Skill：
 
-1. 从 https://github.com/anjiu930/word-report-generator 克隆或下载项目
+1. 从 https://github.com/XA-anjiu/word-report-generator 克隆或下载项目
 2. 把 word-report 目录复制到 ~/.claude/skills/word-report
 3. 安装 Python 依赖：pip install python-docx
 4. 安装 chromedevtool自动操作浏览器mcp
@@ -138,10 +138,10 @@ AI 会自动帮你完成所有安装步骤，你只需要确认即可。
 **1️⃣ 下载本项目**
 
 ```bash
-git clone https://github.com/anjiu930/word-report-generator.git
+git clone https://github.com/XA-anjiu/word-report-generator.git
 ```
 
-或者直接去 [Releases](https://github.com/anjiu930/word-report-generator/releases) 下载 zip。
+或者直接去 [Releases](https://github.com/XA-anjiu/word-report-generator/releases) 下载 zip。
 
 **2️⃣ 复制到 Skills 目录**
 
